@@ -1,0 +1,13 @@
+.absolute-position {
+  position: absolute;
+  left: 30px;
+  max-width: 400px;
+  width: 100%;
+}
+.image-text .ortho-subheading {
+  font-size: 30px;
+}
+
+.relative-position {
+  position: relative;
+}
